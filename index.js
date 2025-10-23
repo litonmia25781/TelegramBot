@@ -10,7 +10,7 @@ const bot = new TelegramBot(token, { polling: true });
 const qaDatabase = [
   { question: 'hello', answer: 'Hello! How can I help you today? 😊' },
   { question: 'hi', answer: 'Hi there! What’s up? 😄' },
-  { question: 'your name', answer: 'I am Yeasin’s friendly Telegram bot 🤖' },
+  { question: 'your name', answer: 'I am an electrician ' },
   { question: 'how are you', answer: 'I am just code, but feeling awesome! 😎' },
   { question: 'bye', answer: 'Goodbye! Have a great day! 👋' }
 ];
